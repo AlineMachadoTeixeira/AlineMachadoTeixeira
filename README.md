@@ -33,7 +33,7 @@ Linguagens:
 
 <div>
   <img width="50%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/AlineMachadoTeixeira?cardType=level&theme=github-dark&preferLogin=false&Border=4D89D5&Background=0D1117&Ring=4D89D5&Title=4D89D5)]https://git.io/awesome-stats-card" />   
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMachadoTeixeira&layout=compact&hide_border=false&border_color=4b89d5&title_color=4b89d5&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="35%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineMachadoTeixeira&layout=compact&hide_border=false&border_color=4b89d5&title_color=4b89d5&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 
