@@ -1,7 +1,7 @@
 ### Oii! Eu sou Aline Teixeira 👋
 <br>
 
-- 🌱 Atualmente estou cursando Técnico em Desenvolvimento Web Full Stack no Senac.
+- 🌱 Atualmente estou cursando  Faculdade de Tecnologia em Desenvolvimento de Software Multiplataforma na Fatec.
 
 - ❤️ Entusiasmada pela área de tecnologia
 
